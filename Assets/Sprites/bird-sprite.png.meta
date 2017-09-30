@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 428a290d2704f1f46a3c93b6b4402a26
+timeCreated: 1458860641
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bird-sprite_0
+    21300002: bird-sprite_1
+    21300004: bird-sprite_2
+    21300006: bird-sprite_3
+    21300008: bird-sprite_4
+    21300010: bird-sprite_5
+    21300012: bird-sprite_6
+    21300014: bird-sprite_7
+    21300016: bird-sprite_8
+    21300018: bird-sprite_9
+    21300020: bird-sprite_10
+    21300022: bird-sprite_11
+    21300024: bird-sprite_12
+    21300026: bird-sprite_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 130
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bird-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337.3333
+        width: 183.6
+        height: 168.66669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 84.83331}
+        - {x: -52, y: 84.83331}
+        - {x: -60, y: 74.83331}
+        - {x: -60, y: 44.833313}
+        - {x: -51, y: 26.833313}
+        - {x: -45, y: 19.833313}
+        - {x: -52, y: 17.833313}
+        - {x: -60, y: 15.833313}
+        - {x: -60, y: -48.166687}
+        - {x: -57, y: -61.166687}
+        - {x: 31, y: -61.166687}
+        - {x: 90, y: -52.166687}
+        - {x: 90, y: -0.16668701}
+        - {x: 42, y: 70.83331}
+    - name: bird-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 337.3333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: -12.166687}
+        - {x: 29, y: 80.83331}
+        - {x: 16, y: 84.83331}
+        - {x: -50, y: 84.83331}
+        - {x: -61, y: 79.83331}
+        - {x: -61, y: -60.166687}
+        - {x: 27, y: -60.166687}
+        - {x: 79, y: -48.166687}
+        - {x: 77, y: -40.166687}
+        - {x: 70, y: -34.166687}
+        - {x: 89, y: -21.166687}
+    - name: bird-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 337.3333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 74.83331}
+        - {x: -62, y: 74.83331}
+        - {x: -62, y: -35.166687}
+        - {x: -41, y: -59.166687}
+        - {x: 82, y: -59.166687}
+        - {x: 87, y: -58.166687}
+        - {x: 88, y: -56.166687}
+        - {x: 88, y: 72.83331}
+    - name: bird-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 337
+        width: 180
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 69.5}
+        - {x: -85, y: 60.5}
+        - {x: -86, y: 60.5}
+        - {x: -86, y: 2.5}
+        - {x: -59, y: -56.5}
+        - {x: 57, y: -56.5}
+        - {x: 89, y: -34.5}
+        - {x: 89, y: 31.5}
+        - {x: 66, y: 69.5}
+      - - {x: 87, y: -31.5}
+        - {x: 89, y: -33.5}
+        - {x: 90, y: -33.5}
+        - {x: 90, y: -27.5}
+        - {x: 87, y: -28.5}
+    - name: bird-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 337
+        width: 186
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 38.5}
+        - {x: -29, y: 38.5}
+        - {x: -67, y: 35.5}
+        - {x: -93, y: -14.5}
+        - {x: -93, y: -49.5}
+        - {x: -82, y: -53.5}
+        - {x: 86, y: -53.5}
+        - {x: 90, y: -36.5}
+        - {x: 90, y: 14.5}
+        - {x: 77, y: 23.5}
+    - name: bird-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 184
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 35.5}
+        - {x: -60, y: 27.5}
+        - {x: -60, y: -82.5}
+        - {x: -58, y: -84.5}
+        - {x: 58, y: -84.5}
+        - {x: 80, y: -81.5}
+        - {x: 90, y: -60.5}
+        - {x: 90, y: -2.5}
+        - {x: 62, y: 35.5}
+    - name: bird-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 167
+        width: 184
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 40.5}
+        - {x: -61, y: -65.5}
+        - {x: -50, y: -84.5}
+        - {x: 70, y: -84.5}
+        - {x: 89, y: -61.5}
+        - {x: 89, y: 21.5}
+        - {x: 63, y: 40.5}
+    - name: bird-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 169
+        width: 184
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 38.5}
+        - {x: -24, y: 38.5}
+        - {x: -62, y: 27.5}
+        - {x: -62, y: -49.5}
+        - {x: -45, y: -84.5}
+        - {x: 44, y: -84.5}
+        - {x: 88, y: -40.5}
+        - {x: 88, y: -8.5}
+        - {x: 87, y: -3.5}
+    - name: bird-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 169.33333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 37.83333}
+        - {x: -61, y: 27.833328}
+        - {x: -63, y: 25.833328}
+        - {x: -63, y: -26.166672}
+        - {x: -53, y: -60.16667}
+        - {x: -32, y: -75.16667}
+        - {x: 51, y: -75.16667}
+        - {x: 87, y: -59.16667}
+        - {x: 87, y: 1.8333282}
+        - {x: 54, y: 37.83333}
+    - name: bird-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 169.33333
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 35.83333}
+        - {x: -64, y: 28.833328}
+        - {x: -64, y: -40.16667}
+        - {x: -54, y: -75.16667}
+        - {x: -38, y: -78.16667}
+        - {x: 63, y: -78.16667}
+        - {x: 86, y: -42.16667}
+        - {x: 86, y: -0.16667175}
+        - {x: 53, y: 35.83333}
+    - name: bird-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 183.6
+        height: 168.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 30.833328}
+        - {x: -57, y: 19.833328}
+        - {x: -60, y: 13.833328}
+        - {x: -60, y: -15.166672}
+        - {x: -55, y: -23.166672}
+        - {x: -50, y: -55.16667}
+        - {x: -39, y: -81.16667}
+        - {x: 50, y: -81.16667}
+        - {x: 90, y: -65.16667}
+        - {x: 90, y: 2.8333282}
+        - {x: 65, y: 30.833328}
+    - name: bird-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1
+        width: 184
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 30.5}
+        - {x: -61, y: 28.5}
+        - {x: -61, y: -69.5}
+        - {x: -49, y: -79.5}
+        - {x: 76, y: -79.5}
+        - {x: 89, y: -67.5}
+        - {x: 89, y: 13.5}
+        - {x: 64, y: 30.5}
+    - name: bird-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 179
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89.5, y: -12.5}
+        - {x: 86.5, y: -3.5}
+        - {x: 67.5, y: 27.5}
+        - {x: -38.5, y: 27.5}
+        - {x: -78.5, y: 13.5}
+        - {x: -81.5, y: -3.5}
+        - {x: -81.5, y: -57.5}
+        - {x: -79.5, y: -58.5}
+        - {x: -68.5, y: -56.5}
+        - {x: -47.5, y: -64.5}
+        - {x: 19.5, y: -64.5}
+        - {x: 76.5, y: -48.5}
+        - {x: 78.5, y: -44.5}
+        - {x: 89.5, y: -31.5}
+    - name: bird-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1
+        width: 184
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 52.5}
+        - {x: -50, y: 52.5}
+        - {x: -78, y: 49.5}
+        - {x: -92, y: 25.5}
+        - {x: -92, y: -6.5}
+        - {x: -41, y: -65.5}
+        - {x: 37, y: -65.5}
+        - {x: 91, y: -57.5}
+        - {x: 91, y: -20.5}
+        - {x: 83, y: -16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
